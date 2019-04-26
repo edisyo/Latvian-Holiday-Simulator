@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>5e2100257a451c04a8a5a7230474d511</guid>
+    <fileName>Assets/flipNormals.cs</fileName>
+    <timeStamp>2019-04-26T23:40:46+03:00</timeStamp>
+    <typeFullName>
+      <string>flipNormals</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>359dfd8d7e3732240894f33b6f6d6e56</guid>
+    <fileName>Assets/SteamVR/Editor/SteamVR_AutoEnableVR.cs</fileName>
+    <timeStamp>2019-01-30T21:36:05+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5ba22c80948c94e44a82b9fd1b3abd0d</guid>
+    <fileName>Assets/SteamVR/Editor/SteamVR_Editor.cs</fileName>
+    <timeStamp>2019-01-30T21:37:30+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>29abf75f7265ccb45b799eac4ab0ca94</guid>
+    <fileName>Assets/SteamVR/Editor/SteamVR_Preferences.cs</fileName>
+    <timeStamp>2019-01-30T21:35:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>67867a20919f7db45a2e7034fda1c28e</guid>
+    <fileName>Assets/SteamVR/Editor/SteamVR_RenderModelEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:37:51+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e685536ef30251d44b129a06ca5ab900</guid>
+    <fileName>Assets/SteamVR/Editor/SteamVR_Settings.cs</fileName>
+    <timeStamp>2019-01-30T21:41:00+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>80087fbbf7bf93a46bb4aea276b19568</guid>
+    <fileName>Assets/SteamVR/Editor/SteamVR_SkyboxEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:38:34+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d2244eee8a3a4784fb40d1123ff69301</guid>
+    <fileName>Assets/SteamVR/Editor/SteamVR_UnitySettingsWindow.cs</fileName>
+    <timeStamp>2019-01-30T21:40:24+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>73a0556bda803bf4e898751dcfcf21a8</guid>
+    <fileName>Assets/SteamVR/Editor/SteamVR_Update.cs</fileName>
+    <timeStamp>2019-01-30T21:38:09+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>656e3d05f0a289d4ab6f3d44f65c9b6d</guid>
+    <fileName>Assets/SteamVR/Editor/SteamVR_UpdateModeEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:37:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c4bc5db9c652ff8408b7cda0197f87f1</guid>
+    <fileName>Assets/SteamVR/Extras/SteamVR_ForceSteamVRMode.cs</fileName>
+    <timeStamp>2019-01-30T21:39:59+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>501eb8b744f73714fbe7dbdd5e3ef66e</guid>
+    <fileName>Assets/SteamVR/Extras/SteamVR_GazeTracker.cs</fileName>
+    <timeStamp>2019-01-30T21:36:52+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b2f511c1adaa1e94ebe7ca97bbcabd17</guid>
+    <fileName>Assets/SteamVR/Extras/SteamVR_LaserPointer.cs</fileName>
+    <timeStamp>2019-01-30T21:39:39+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ff4f36585e15b1942827390ff1a92502</guid>
+    <fileName>Assets/SteamVR/Extras/SteamVR_TestThrow.cs</fileName>
+    <timeStamp>2019-01-30T21:41:42+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b18b36a995ecb04599f35c2741be8d5</guid>
+    <fileName>Assets/SteamVR/Extras/SteamVR_TestTrackedCamera.cs</fileName>
+    <timeStamp>2019-01-30T21:38:46+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9f2ad3c310c8826479de4aadf38385d7</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Action.cs</fileName>
+    <timeStamp>2019-01-30T21:39:10+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>685af21914dfaf6459336bd9e8d1966c</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_ActionDirections.cs</fileName>
+    <timeStamp>2019-01-30T21:37:54+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fff79524d13a43d4a995dccedb5085c4</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_ActionSet.cs</fileName>
+    <timeStamp>2019-01-30T21:41:43+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>672d3f475539e5242af05932e937908b</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_ActionSet_Manager.cs</fileName>
+    <timeStamp>2019-01-30T21:37:51+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7c3d755cf6cc936488afcb037b69341e</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Action_Boolean.cs</fileName>
+    <timeStamp>2019-01-30T21:38:27+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a93d780c5506a6047bdaf1009c904c9c</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Action_In.cs</fileName>
+    <timeStamp>2019-01-30T21:39:25+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9432398566c5b434685df0ceda0c736f</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Action_Out.cs</fileName>
+    <timeStamp>2019-01-30T21:38:59+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>640f5aa82bb9c714696f842cb8727241</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Action_Pose.cs</fileName>
+    <timeStamp>2019-01-30T21:37:44+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>02b1c930c612dbc469d258783cb8be34</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Action_Single.cs</fileName>
+    <timeStamp>2019-01-30T21:34:28+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84215d4427008924ebae4389d3e197e6</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Action_Skeleton.cs</fileName>
+    <timeStamp>2019-01-30T21:38:40+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>31ab55ded67f66140977a544d93962ab</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Action_Vector2.cs</fileName>
+    <timeStamp>2019-01-30T21:36:03+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f0d3d2010d570484eb65e1062a1b0e8e</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Action_Vector3.cs</fileName>
+    <timeStamp>2019-01-30T21:41:19+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>48b01ecd7f9020044bab37ea4ac8fca3</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Action_Vibration.cs</fileName>
+    <timeStamp>2019-01-30T21:36:38+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>27991c206a5e66147bb8ee3ef31c8bac</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_ActivateActionSetOnLoad.cs</fileName>
+    <timeStamp>2019-01-30T21:35:45+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>16a9b39235339104889bf8e9178fc630</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Behaviour_Boolean.cs</fileName>
+    <timeStamp>2019-01-30T21:35:07+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9a5fb0ca93b55ef4b8d54b512b103341</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Behaviour_Pose.cs</fileName>
+    <timeStamp>2019-01-30T21:39:05+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8be882076514bc846a3ee15c689d0ac4</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Behaviour_Single.cs</fileName>
+    <timeStamp>2019-01-30T21:38:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>00f6c0d7b5a00aa4a8d38a09a0480032</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Behaviour_Skeleton.cs</fileName>
+    <timeStamp>2019-01-30T21:34:21+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9e4c0a04a2f4ee942ba9bd5d7ceb7266</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Behaviour_SkeletonCustom.cs</fileName>
+    <timeStamp>2019-01-30T21:39:09+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>882e9db3ae3cfdf4793461eada0f54b6</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Behaviour_Vector2.cs</fileName>
+    <timeStamp>2019-01-30T21:38:43+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a749ce0534daa1a4c9455e56191c9e93</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Behaviour_Vector3.cs</fileName>
+    <timeStamp>2019-01-30T21:39:22+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2fd04576439b81a438e44cc006d35ebb</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_DefaultAction.cs</fileName>
+    <timeStamp>2019-01-30T21:35:58+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>52de2eb8a319fcb4aa7dd51c4127f124</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_DefaultActionSet.cs</fileName>
+    <timeStamp>2019-01-30T21:36:57+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>36fa5b356bc9b9f4792bb2c38b8d8b5f</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Input.cs</fileName>
+    <timeStamp>2019-01-30T21:36:07+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a46ca29bcb0df3e4ea80651c2220adbf</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Input_ActionFile.cs</fileName>
+    <timeStamp>2019-01-30T21:39:18+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b8b3d557389a8d84496ba0aadf2faad5</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Input_ActionScopes.cs</fileName>
+    <timeStamp>2019-01-30T21:39:44+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d74d007b6f4b4674a9cfd320b9389b66</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Input_ActionSetUsages.cs</fileName>
+    <timeStamp>2019-01-30T21:40:33+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7a2acf5cecdd8444c97bc579ba230dde</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Input_BindingFile.cs</fileName>
+    <timeStamp>2019-01-30T21:38:22+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1178c003dbad4854a932b7bc84000ed5</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Input_Generator_Names.cs</fileName>
+    <timeStamp>2019-01-30T21:35:00+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4d10323487cb44348b830bc017eb40b4</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Input_References.cs</fileName>
+    <timeStamp>2019-01-30T21:36:45+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>edb9f777bb43d4d4e800dd8a82ba523c</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Input_Source.cs</fileName>
+    <timeStamp>2019-01-30T21:41:15+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c2cbd60e2aad2b7468204d5a69489739</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Input_Sources.cs</fileName>
+    <timeStamp>2019-01-30T21:39:56+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e90911e410742a1498a167540c7865bf</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Skeleton_Pose.cs</fileName>
+    <timeStamp>2019-01-30T21:41:05+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7418c7dd8f977d4e969202d3fa7e926</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_Skeleton_Poser.cs</fileName>
+    <timeStamp>2019-01-30T21:41:01+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5811a8be2382cd440970c707dccb6fb0</guid>
+    <fileName>Assets/SteamVR/Input/SteamVR_UpdateModes.cs</fileName>
+    <timeStamp>2019-01-30T21:37:14+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>59250d64a1ce9a44891e9bb0b3d71e6b</guid>
+    <fileName>Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_BooleanEvent.cs</fileName>
+    <timeStamp>2019-01-30T21:37:22+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d77e49c3174e18045ab27a1029c6a977</guid>
+    <fileName>Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_PoseEvent.cs</fileName>
+    <timeStamp>2019-01-30T21:40:34+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f0abecbe8a5e4e04dab8f886e1d6d070</guid>
+    <fileName>Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Pose_ConnectedChangedEvent.cs</fileName>
+    <timeStamp>2019-01-30T21:41:18+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bc42b626f4ef1264ebfc0393f40df5c9</guid>
+    <fileName>Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Pose_DeviceIndexChangedEvent.cs</fileName>
+    <timeStamp>2019-01-30T21:39:50+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>62c981c44fe9a6046bb0766cb96bdf65</guid>
+    <fileName>Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Pose_TrackingChangedEvent.cs</fileName>
+    <timeStamp>2019-01-30T21:37:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b8fd33c9d8ff2114a8b6a59629165318</guid>
+    <fileName>Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_SingleEvent.cs</fileName>
+    <timeStamp>2019-01-30T21:39:45+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c56ae57c82c46674ea85a60fd6ba9334</guid>
+    <fileName>Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_SkeletonEvent.cs</fileName>
+    <timeStamp>2019-01-30T21:40:00+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>431bf7eb5ceb24a448dc44a2ed8d8243</guid>
+    <fileName>Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Skeleton_ConnectedChangedEvent.cs</fileName>
+    <timeStamp>2019-01-30T21:36:27+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7461d65099840d840af0e25e6afda525</guid>
+    <fileName>Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Skeleton_TrackingChangedEvent.cs</fileName>
+    <timeStamp>2019-01-30T21:38:11+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>091545c123a858440b2e32a3f299a923</guid>
+    <fileName>Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Vector2Event.cs</fileName>
+    <timeStamp>2019-01-30T21:34:42+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>99c31ec1b21aa424987b0162f9971dc6</guid>
+    <fileName>Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Vector3Event.cs</fileName>
+    <timeStamp>2019-01-30T21:39:03+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>806facaa17de95d4794b0acbbad1268d</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_CopyExampleInputFiles.cs</fileName>
+    <timeStamp>2019-01-30T21:38:34+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8c0dec2678a8ce94dbdd749500441172</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_ActionManifest_Manager.cs</fileName>
+    <timeStamp>2019-01-30T21:38:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>074d66e09af4e46429424ca09a9c3402</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_ActionSetPropertyEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:34:39+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>779685f855764aa449874336c160b4d0</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_Action_Boolean_PropertyEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:38:16+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2800414421e3d124486646cbf8206a64</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_Action_GenericPropertyEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:35:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7f01bda1d81aff44b8832e1779ef392f</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_Action_In_PropertyEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:38:30+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bc5014b5bd4c9254885346ccb2479e34</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_Action_Out_PropertyEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:39:51+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6c580c8ee65b2064b9cecf9c8a56b126</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_Action_Pose_PropertyEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:37:59+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef30f8b815c7563459f9bb661516015e</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_Action_PropertyEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:41:16+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4830402dc20240e4ea78925fdf5cb924</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_Action_Single_PropertyEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:36:36+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>67e9f92e8ad511b47ac9bd0e49834d0f</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_Action_Skeleton_PropertyEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:37:53+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>44945f1de2d06c843bbacc0c37a431c2</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_Action_Vector2_PropertyEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:36:31+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>08029b867fa0bbf4bb41613c2ebb449e</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_Action_Vector3_PropertyEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:34:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6687413c4fe847b418c7a33716013e07</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_Action_Vibration_PropertyEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:37:50+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>03dc30b5b3080b44ab840459bbaf7b78</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_EditorWindow.cs</fileName>
+    <timeStamp>2019-01-30T21:34:34+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dcf3113e82474c541960a24c222f07b3</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_Generator.cs</fileName>
+    <timeStamp>2019-01-30T21:40:45+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4f3a55cce07b5da49ad2dfb86baea564</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_LiveWindow.cs</fileName>
+    <timeStamp>2019-01-30T21:36:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7397a60f6d7fe3942bf26563dad77fe2</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Input_PostProcessBuild.cs</fileName>
+    <timeStamp>2019-01-30T21:38:09+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4dc9de3af3d42194abc1380cc3a5cc61</guid>
+    <fileName>Assets/SteamVR/Input/Editor/SteamVR_Skeleton_PoserEditor.cs</fileName>
+    <timeStamp>2019-01-30T21:36:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1731d642c0b250b48bb8cdfb153d9792</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/BodyCollider.cs</fileName>
+    <timeStamp>2019-01-30T21:35:08+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1f32883eed859804dbb0c5fedac91496</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/CircularDrive.cs</fileName>
+    <timeStamp>2019-01-30T21:35:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ad77666522338cf49ba83b80b25e6476</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/ComplexThrowable.cs</fileName>
+    <timeStamp>2019-01-30T21:39:32+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8ca2cc563cc33f542a5d9f8f661184ba</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/ControllerHoverHighlight.cs</fileName>
+    <timeStamp>2019-01-30T21:38:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5f3294e06115d0047a2ac7659a11b168</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/CustomEvents.cs</fileName>
+    <timeStamp>2019-01-30T21:37:37+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6f3bba2c36dd79242b3157dbcd876bf2</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/DebugUI.cs</fileName>
+    <timeStamp>2019-01-30T21:38:02+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5240357a2468cdc4291b266bee3cb9b9</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/DestroyOnDetachedFromHand.cs</fileName>
+    <timeStamp>2019-01-30T21:36:56+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>69cad530c565c714491a326c21accb90</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/DestroyOnParticleSystemDeath.cs</fileName>
+    <timeStamp>2019-01-30T21:37:55+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7ba84888c9d4c504cb752a3904551a6c</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/DestroyOnTriggerEnter.cs</fileName>
+    <timeStamp>2019-01-30T21:38:26+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>65ef702aaa09d3f46a75659678b1a711</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/DistanceHaptics.cs</fileName>
+    <timeStamp>2019-01-30T21:37:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4d1c07a6449b0ca439ee6fac5f6f7d83</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/DontDestroyOnLoad.cs</fileName>
+    <timeStamp>2019-01-30T21:36:45+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>88a2ccbdad9948c45b28f5e63902705b</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/EnumFlags.cs</fileName>
+    <timeStamp>2019-01-30T21:38:44+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ecd73422fbc4be54a9f4d8f3972f8579</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/Equippable.cs</fileName>
+    <timeStamp>2019-01-30T21:41:14+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6043f3be9a21bd74281f9770463bea00</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/FallbackCameraController.cs</fileName>
+    <timeStamp>2019-01-30T21:37:39+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>99eaa65760d05f74b811106b4945924e</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/GrabTypes.cs</fileName>
+    <timeStamp>2019-01-30T21:39:04+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>29e3e4511966ba94d8ba0b98c6c62f82</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/Hand.cs</fileName>
+    <timeStamp>2019-01-30T21:35:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>817521c5973e4ee45905ee97df3c38ad</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/HapticRack.cs</fileName>
+    <timeStamp>2019-01-30T21:38:36+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eb6d6653511aff5409d0827d4e3b79ea</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/HideOnHandFocusLost.cs</fileName>
+    <timeStamp>2019-01-30T21:41:10+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c0e35ef0cc211b408d2d7e7eb0f850d</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/HoverButton.cs</fileName>
+    <timeStamp>2019-01-30T21:35:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f5a1be5da1c87864582d778e52de4e9b</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/IgnoreHovering.cs</fileName>
+    <timeStamp>2019-01-30T21:41:29+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c9e05292e0d62b542ac5bba92674a86d</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/InputModule.cs</fileName>
+    <timeStamp>2019-01-30T21:40:16+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b93b6a877adcbf94c89a9d6e0c0e844d</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs</fileName>
+    <timeStamp>2019-01-30T21:39:45+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>78549ac336d4d37418a4d4e0d981f91f</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/InteractableDebug.cs</fileName>
+    <timeStamp>2019-01-30T21:38:18+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c4153b26428ccf041950b92c057812a3</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/InteractableHoverEvents.cs</fileName>
+    <timeStamp>2019-01-30T21:39:57+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c9f83db71b9a6764abf964ab7679f035</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/ItemPackage.cs</fileName>
+    <timeStamp>2019-01-30T21:40:17+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>57468e6cbae21894fa42c90413c294ff</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/ItemPackageReference.cs</fileName>
+    <timeStamp>2019-01-30T21:37:09+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>43e53a985809f0949b9a42cc2a6888c9</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/ItemPackageSpawner.cs</fileName>
+    <timeStamp>2019-01-30T21:36:29+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>49a60120b932b59409171f5ff611b639</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/LinearAnimation.cs</fileName>
+    <timeStamp>2019-01-30T21:36:39+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>634b98c3ef8bc6d4f834f80a4613a4a4</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/LinearAnimator.cs</fileName>
+    <timeStamp>2019-01-30T21:37:42+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bb07dbf09f9933e49b22c82d8428c53b</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/LinearAudioPitch.cs</fileName>
+    <timeStamp>2019-01-30T21:39:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5a3622562855c9a40a14846ffdc8bfe4</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/LinearBlendshape.cs</fileName>
+    <timeStamp>2019-01-30T21:37:25+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>13d876e5d485004448f3e7b57eece9ab</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/LinearDisplacement.cs</fileName>
+    <timeStamp>2019-01-30T21:35:04+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8c81a27fd18a29444be92481fe681f4b</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/LinearDrive.cs</fileName>
+    <timeStamp>2019-01-30T21:38:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>46f8e9e70f68ee3418ad85992778c116</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/LinearMapping.cs</fileName>
+    <timeStamp>2019-01-30T21:36:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d9172bbb2e6dd7e4a86c0d1ea19b7e49</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/ModalThrowable.cs</fileName>
+    <timeStamp>2019-01-30T21:40:36+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>202a6e24b48d1684398409c47161adcb</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/Player.cs</fileName>
+    <timeStamp>2019-01-30T21:35:38+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1a125d9df683e2a49b12babced273360</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/PlaySound.cs</fileName>
+    <timeStamp>2019-01-30T21:35:14+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>847a4fd831847974bb8d16b469b643e3</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/RenderModel.cs</fileName>
+    <timeStamp>2019-01-30T21:38:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7d623a50b67320940b97e93e31d0a21b</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/SeeThru.cs</fileName>
+    <timeStamp>2019-01-30T21:38:29+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0584375ad2f33ef4da0b276de8507487</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/SleepOnAwake.cs</fileName>
+    <timeStamp>2019-01-30T21:34:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f53662f45a4454944a06629fec9c941e</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/SoundDeparent.cs</fileName>
+    <timeStamp>2019-01-30T21:41:28+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>32c1c9a5bbab2e54280027c0ecaf42db</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/SoundPlayOneshot.cs</fileName>
+    <timeStamp>2019-01-30T21:36:04+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ad167161b0bf8e4d9c038db358e0a28</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/SpawnAndAttachAfterControllerIsTracking.cs</fileName>
+    <timeStamp>2019-01-30T21:37:57+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4a03a51c550b92478a559cf694ce118</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/SpawnAndAttachToHand.cs</fileName>
+    <timeStamp>2019-01-30T21:41:27+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ffefbea063cab884ca33e5a449e5c22c</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/Throwable.cs</fileName>
+    <timeStamp>2019-01-30T21:41:43+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>53cd2ef2dd3d5d64e96af4420220d1d2</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/UIElement.cs</fileName>
+    <timeStamp>2019-01-30T21:36:58+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ba42448c9a2fa44409034eead650b5f4</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/Unparent.cs</fileName>
+    <timeStamp>2019-01-30T21:39:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d4dbb95c6efc21548ac6d079a65a2d50</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/Util.cs</fileName>
+    <timeStamp>2019-01-30T21:40:30+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>783750eec4c41da428b7651515146d14</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Core/Scripts/VelocityEstimator.cs</fileName>
+    <timeStamp>2019-01-30T21:38:18+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ea1001a6626353541ab4d4b39f4c3569</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Hints/Scripts/ControllerButtonHints.cs</fileName>
+    <timeStamp>2019-01-30T21:41:09+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f2f2850d002f14a47bff32fdf73df53e</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Longbow/Scripts/ArcheryTarget.cs</fileName>
+    <timeStamp>2019-01-30T21:41:24+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d520699ed41daaf48b924d994ac87378</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Longbow/Scripts/Arrow.cs</fileName>
+    <timeStamp>2019-01-30T21:40:30+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d85480da87762944399dab6c99985eef</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Longbow/Scripts/ArrowHand.cs</fileName>
+    <timeStamp>2019-01-30T21:40:34+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f195fe0cc42f49241a3c7521a19fa350</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Longbow/Scripts/ArrowheadRotation.cs</fileName>
+    <timeStamp>2019-01-30T21:41:20+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>429a484b95998f84eaa98fa068caa5e9</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Longbow/Scripts/Balloon.cs</fileName>
+    <timeStamp>2019-01-30T21:36:27+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>667230ade3b20b641a0ba08bdfd760fc</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Longbow/Scripts/BalloonColliders.cs</fileName>
+    <timeStamp>2019-01-30T21:37:50+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ec82b6ce2e2435444a434107cddceb0b</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Longbow/Scripts/BalloonHapticBump.cs</fileName>
+    <timeStamp>2019-01-30T21:41:14+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cc1b8e5b8c3365a49b0274fb637151d6</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Longbow/Scripts/BalloonSpawner.cs</fileName>
+    <timeStamp>2019-01-30T21:40:20+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>012bb97850e84ad4c890dcab506009bc</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Longbow/Scripts/ExplosionWobble.cs</fileName>
+    <timeStamp>2019-01-30T21:34:22+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f86ab2e727cd09f43849955c5b35f490</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Longbow/Scripts/FireSource.cs</fileName>
+    <timeStamp>2019-01-30T21:41:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>30032368544f1a341976db391b260507</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Longbow/Scripts/Longbow.cs</fileName>
+    <timeStamp>2019-01-30T21:35:58+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dc121f192dd724945a1998a9c1f1727d</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Longbow/Scripts/SoundBowClick.cs</fileName>
+    <timeStamp>2019-01-30T21:40:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>68cfc2d5837cbbb4fadf8b044ca88bb1</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/BuggyBuddy.cs</fileName>
+    <timeStamp>2019-01-30T21:37:55+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>835b6b0bed899be43a580366974d84eb</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/BuggyController.cs</fileName>
+    <timeStamp>2019-01-30T21:38:38+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2eafe1c4f43002f4a9ae978daba0d0f7</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/LockToPoint.cs</fileName>
+    <timeStamp>2019-01-30T21:35:54+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a97b732be32dc884885a1af270088489</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/trackCam.cs</fileName>
+    <timeStamp>2019-01-30T21:39:26+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9799564b983d9664b824f7b9b2ff8d88</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/trackObj.cs</fileName>
+    <timeStamp>2019-01-30T21:39:02+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0ca7ca2b4b28e184ea4ecc51ddd31f36</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/WheelDust.cs</fileName>
+    <timeStamp>2019-01-30T21:34:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3bca11e0534f4e742846c41cf3f1ff29</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/Audio/AmbientSound.cs</fileName>
+    <timeStamp>2019-01-30T21:36:17+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>013214146096fa74898db952aa9b2da2</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Grenade/Grenade.cs</fileName>
+    <timeStamp>2019-01-30T21:34:23+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2e6e0fb6a756a434b9faeea744a9920c</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/JoeJeff/JoeJeff.cs</fileName>
+    <timeStamp>2019-01-30T21:35:53+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c178cd2631c07944bc48d4c9d824edb</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/JoeJeff/JoeJeffController.cs</fileName>
+    <timeStamp>2019-01-30T21:35:50+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4614a07f51836eb48bfe11b75633be31</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/JoeJeff/JoeJeffGestures.cs</fileName>
+    <timeStamp>2019-01-30T21:36:33+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d8c45beb4f5e7a949a8b61f306ff7c66</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/JoeJeff/ProceduralHats.cs</fileName>
+    <timeStamp>2019-01-30T21:40:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fdc6e48706c13fa4a8f807ff0f16e9de</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Scripts/ButtonEffect.cs</fileName>
+    <timeStamp>2019-01-30T21:41:41+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>80df3856ba408c944a3cf528cf7bad83</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Scripts/ButtonExample.cs</fileName>
+    <timeStamp>2019-01-30T21:38:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>79e7ef0af37bbcb40ab89c4cc2481018</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Scripts/ControllerHintsExample.cs</fileName>
+    <timeStamp>2019-01-30T21:38:21+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>294fb0b20d456c749966ea34ca82355a</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Scripts/CustomSkeletonHelper.cs</fileName>
+    <timeStamp>2019-01-30T21:35:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>158d046322c150348bfed00c688d3142</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Scripts/FloppyHand.cs</fileName>
+    <timeStamp>2019-01-30T21:35:07+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6a7c27a46b80a6445bffe44ea9e91cd0</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Scripts/FlowerPlanted.cs</fileName>
+    <timeStamp>2019-01-30T21:37:56+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8bb563c4e716d2c4181e187d9be248db</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Scripts/InteractableExample.cs</fileName>
+    <timeStamp>2019-01-30T21:38:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4390f3b73c731c846a0cc863c72d7a1e</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Scripts/Planting.cs</fileName>
+    <timeStamp>2019-01-30T21:36:27+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f05229f3db0d24a4e9df9f11919f341a</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Scripts/RenderModelChangerUI.cs</fileName>
+    <timeStamp>2019-01-30T21:41:17+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>48c26627b0786bd489db7ad471de1a5e</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Scripts/SkeletonUIOptions.cs</fileName>
+    <timeStamp>2019-01-30T21:36:38+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>037de2161ddbc6f4e96de7dd85ea6686</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Scripts/TargetHitEffect.cs</fileName>
+    <timeStamp>2019-01-30T21:34:33+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ec342cce029750947a79c83ea47c42b9</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Scripts/TargetMeasurement.cs</fileName>
+    <timeStamp>2019-01-30T21:41:13+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e591913e9a140ee44b7837c4fd22aeb4</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Samples/Squishy/SquishyToy.cs</fileName>
+    <timeStamp>2019-01-30T21:40:57+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b8d4cc6cf300b3e4bb1411c4e041030c</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Teleport/Scripts/AllowTeleportWhileAttachedToHand.cs</fileName>
+    <timeStamp>2019-01-30T21:39:45+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ebcc975aa3c1d5240936c86b600ca2a5</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Teleport/Scripts/ChaperoneInfo.cs</fileName>
+    <timeStamp>2019-01-30T21:41:11+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dc3be917a80086a48b97933694257f09</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Teleport/Scripts/IgnoreTeleportTrace.cs</fileName>
+    <timeStamp>2019-01-30T21:40:42+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f260935093f73f241bfaa1578e5e5506</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Teleport/Scripts/Teleport.cs</fileName>
+    <timeStamp>2019-01-30T21:41:22+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a043c731a29ecd745a9270fbf002ee68</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Teleport/Scripts/TeleportArc.cs</fileName>
+    <timeStamp>2019-01-30T21:39:11+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84a4f15a3179f1d4993aded11f4d0232</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Teleport/Scripts/TeleportArea.cs</fileName>
+    <timeStamp>2019-01-30T21:38:42+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c6bc348d47e14444f9ca466d8cf06d46</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Teleport/Scripts/TeleportMarkerBase.cs</fileName>
+    <timeStamp>2019-01-30T21:40:02+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e0135c95e70592e4fac2f29e7b78abcf</guid>
+    <fileName>Assets/SteamVR/InteractionSystem/Teleport/Scripts/TeleportPoint.cs</fileName>
+    <timeStamp>2019-01-30T21:40:51+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8d26b9eddedb33d48be044bb268a57c7</guid>
+    <fileName>Assets/SteamVR/Plugins/openvr_api.cs</fileName>
+    <timeStamp>2019-01-30T21:38:50+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7fae0ddab09ac324c85494471274d6a4</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR.cs</fileName>
+    <timeStamp>2019-01-30T21:38:32+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1aaa8a3afb932fe478757c1e89cf0cd5</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_Behaviour.cs</fileName>
+    <timeStamp>2019-01-30T21:35:15+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6bca9ccf900ccc84c887d783321d27e2</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_Camera.cs</fileName>
+    <timeStamp>2019-01-30T21:37:58+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f5be45115742b07478e21c85fcc233ec</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_CameraFlip.cs</fileName>
+    <timeStamp>2019-01-30T21:41:30+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5828f252c3c228f4b931f66c21e525c4</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_CameraMask.cs</fileName>
+    <timeStamp>2019-01-30T21:37:18+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>49a86c1078ce4314b9c4224560e031b9</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_Ears.cs</fileName>
+    <timeStamp>2019-01-30T21:36:40+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c871825e556a1f140a5118ccf59e64d2</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_EnumEqualityComparer.cs</fileName>
+    <timeStamp>2019-01-30T21:40:06+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>44cb57742f235524189e5d8af1c4f3cc</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_Events.cs</fileName>
+    <timeStamp>2019-01-30T21:36:31+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c9da270df5147d24597cc106058c1fa7</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_ExternalCamera.cs</fileName>
+    <timeStamp>2019-01-30T21:40:15+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2ad1e469d4e3e04489f9a36419f1a4f8</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_Fade.cs</fileName>
+    <timeStamp>2019-01-30T21:35:49+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b2d1785fa0c551e408b6c94398847b76</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_Frustum.cs</fileName>
+    <timeStamp>2019-01-30T21:39:38+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ea22dba3baf2ecc4d886bf2444444228</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_IK.cs</fileName>
+    <timeStamp>2019-01-30T21:41:09+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a5a6a70209b6e6345bfe18b02314a54e</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_LoadLevel.cs</fileName>
+    <timeStamp>2019-01-30T21:39:20+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7afc8c74d1f73b458705e0b946292a0</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_Menu.cs</fileName>
+    <timeStamp>2019-01-30T21:41:03+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>46fe9e0b23166454c8cb73040321d78c</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_Overlay.cs</fileName>
+    <timeStamp>2019-01-30T21:36:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1f0522eaef74d984591c060d05a095c8</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_PlayArea.cs</fileName>
+    <timeStamp>2019-01-30T21:35:34+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e979227f3384fac4b8ca0b3550bf005c</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_Render.cs</fileName>
+    <timeStamp>2019-01-30T21:41:06+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5890e3cad70bea64d91aef9145ba3454</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_RenderModel.cs</fileName>
+    <timeStamp>2019-01-30T21:37:19+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>68724c1151b69be48b992a00fd8d9b6b</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_RingBuffer.cs</fileName>
+    <timeStamp>2019-01-30T21:37:55+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b7f99b5209bd86441a74f3b0c7aab951</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_Settings.cs</fileName>
+    <timeStamp>2019-01-30T21:39:44+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>13a43e992568b8e48b4bd489b9d96f40</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_Skybox.cs</fileName>
+    <timeStamp>2019-01-30T21:35:04+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7f4097fabec5d2b4da2b861750319952</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_SphericalProjection.cs</fileName>
+    <timeStamp>2019-01-30T21:38:31+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>55da3adbb5d30254c97687991608dda0</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_TrackedCamera.cs</fileName>
+    <timeStamp>2019-01-30T21:37:01+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d37c2cf88f7c59f4c8cf5d3812568143</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_TrackedObject.cs</fileName>
+    <timeStamp>2019-01-30T21:40:28+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>be3c3a084f7b29b4880b42b4cfbf4d8f</guid>
+    <fileName>Assets/SteamVR/Scripts/SteamVR_Utils.cs</fileName>
+    <timeStamp>2019-01-30T21:39:52+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5162205b778d01647b0d6a2c523b2518</guid>
+    <fileName>Assets/SteamVR/WindowsHelper/SteamVR_Windows_Editor_Helper.cs</fileName>
+    <timeStamp>2019-01-30T21:36:53+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>99ef3c1a0e1c4334bbd2dbed82d7a905</guid>
+    <fileName>Assets/SteamVR_Input/SteamVR_Input_Actions.cs</fileName>
+    <timeStamp>2019-04-26T22:19:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3c467c68e9c0e6849bd1214b30de3bdb</guid>
+    <fileName>Assets/SteamVR_Input/SteamVR_Input_ActionSets.cs</fileName>
+    <timeStamp>2019-04-26T22:19:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f6019f62ff7370b4ba0275a4cd243008</guid>
+    <fileName>Assets/SteamVR_Input/SteamVR_Input_Initialization.cs</fileName>
+    <timeStamp>2019-04-26T22:19:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c1c946a96caf9b645b481570ce27adb5</guid>
+    <fileName>Assets/SteamVR_Input/ActionSetClasses/SteamVR_Input_ActionSet_buggy.cs</fileName>
+    <timeStamp>2019-04-26T22:19:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>63f44d27d57fc8f40b99b8b16e5d7632</guid>
+    <fileName>Assets/SteamVR_Input/ActionSetClasses/SteamVR_Input_ActionSet_default.cs</fileName>
+    <timeStamp>2019-04-26T22:19:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f440ffe967354034789b2046ddbec4b1</guid>
+    <fileName>Assets/SteamVR_Input/ActionSetClasses/SteamVR_Input_ActionSet_mixedreality.cs</fileName>
+    <timeStamp>2019-04-26T22:19:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e4171a1b63dd99048b18430128404635</guid>
+    <fileName>Assets/SteamVR_Input/ActionSetClasses/SteamVR_Input_ActionSet_platformer.cs</fileName>
+    <timeStamp>2019-04-26T22:19:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
