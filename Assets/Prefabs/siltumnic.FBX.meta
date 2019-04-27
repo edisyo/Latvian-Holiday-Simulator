@@ -3,7 +3,32 @@ guid: b45ad746ac8db9e46a0a23c30faa01aa
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1 - Default
+    second: {fileID: 2100000, guid: 2f24620dee6321e459cb65e909100a7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3 - Default
+    second: {fileID: 2100000, guid: c6f8d8e6a4e538343be4fb22a9ed01c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete_Brown_Stucco
+    second: {fileID: 2100000, guid: 5dfa0994d16db6444b2c00bee665c50a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_PlateOX
+    second: {fileID: 2100000, guid: 8310ec4203d6e1d47a2ba46e8a72f9a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Rust
+    second: {fileID: 2100000, guid: a496a74df2384fd438c032737cf6138a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
