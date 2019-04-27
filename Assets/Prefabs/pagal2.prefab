@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4884796776318311546}
   - component: {fileID: 4508470973282002508}
   - component: {fileID: 7903191852070329013}
+  - component: {fileID: 1835310406509590458}
   m_Layer: 0
   m_Name: pagal2
   m_TagString: Untagged
@@ -79,3 +80,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &1835310406509590458
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8471571140450184809}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 1
+  m_CookingOptions: 14
+  m_Mesh: {fileID: -951608786083511892, guid: 4a6578c620474ed4c8dc08f5882de4ae, type: 3}
