@@ -8,18 +8,30 @@ public class score : MonoBehaviour
 {
     public Text UIText;
     public int currentScore = 0;
+    public GameObject pot;
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.tag == "GoodPotato") {
-            currentScore += 1;
-            UIText.text = "Score: " + currentScore.ToString();
-            Debug.Log("Meme");
-        }
-        else if(other.gameObject.tag == "BadPotato")
+        if (pot.name == "Pot_good")
         {
-            currentScore -= 1;
-            UIText.text = "Score: " + currentScore.ToString();
+            if (other.gameObject.tag == "GoodPotato") {
+                currentScore += 1;
+            }
+            else if (other.gameObject.tag == "BadPotato")
+            {
+                currentScore -= 1;
+            }
         }
+        else if (pot.name == "Pot_bad") {
+            if (other.gameObject.tag == "BadPotato")
+            {
+                currentScore += 1;
+            }
+            else if (other.gameObject.tag == "GoodPotato")
+            {
+                currentScore -= 1;
+            }
+        }
+        UIText.text = "Score: " + currentScore.ToString();
     }
 
 }
