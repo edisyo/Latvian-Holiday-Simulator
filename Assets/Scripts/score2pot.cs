@@ -8,6 +8,7 @@ public class score2pot : MonoBehaviour
 {
     public Text UIText;
     public int currentScore = 0;
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag == "BadPotato") {
