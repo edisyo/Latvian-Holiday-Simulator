@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class playerScore : MonoBehaviour
 {
-    public int currentScore;
+    public static int currentScore;
     public Text UIText;
     void Update()
     {

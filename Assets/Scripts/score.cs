@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class score : MonoBehaviour
 {
     public Text UIText;
-    public int currentScore = 0;
+    public static int currentScore = 0;
     public GameObject pot;
     private void OnTriggerEnter(Collider other)
     {
